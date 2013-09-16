@@ -1,0 +1,7 @@
+1) Detect if Monday morning.
+2) If not die.
+3) If Monday Morning start messaging user.
+4) Start with "It's not so bad"-type of messages.
+5) Repeat 4 until user awake.
+6) Continue with messages about fun things to do on Friday.
+7) Assure user Friday is less than a week away.
